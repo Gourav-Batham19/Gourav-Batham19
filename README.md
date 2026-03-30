@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-Batham19&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-Batham19&show_icons=true" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=Gourav-Batham19&theme=tokyonight" />
 </p>
