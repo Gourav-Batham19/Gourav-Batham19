@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Gaurav Batham</h1>
+<h1 align="center">Hi 👋, I'm Gourav Batham</h1>
 <h3 align="center">🚀 IoT Student | Developer | Problem Solver</h3>
 
 <p align="center">
