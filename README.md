@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Gourav Batham</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Batham</h1>
 <h3 align="center">🚀 IoT Student | Developer | Problem Solver</h3>
 
 <p align="center">
@@ -44,17 +44,31 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 💊 Sanjeevan Support
+### 💊 [Sanjeevan Support](https://lovable.dev/projects/165b1ca0-e8fc-4288-a00b-3ec2d203f8fd)
 
 > A smart healthcare support system
+
+🔗 **GitHub Repo:** [View Code](https://github.com/Gourav-Batham19/sanjeevan-support1)
 
 ✨ Features:
 
 * ⏰ Medicine reminders
 * 👨‍⚕️ Doctor & family updates
 * 📊 Health monitoring & reports
+
+---
+
+### 🌐 [Connectify](https://connectify-eight-nu.vercel.app/)
+
+> Built during Smart India Hackathon internal round
+
+
+✨ Highlights:
+
+* 🔗 Connects people efficiently
+* 💡 Solution-based application
 
 ---
 
@@ -83,9 +97,9 @@ Here are some ideas to get you started:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-Batham19&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-Batham19&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Gourav-Batham19&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Gourav-Batham19&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -106,3 +120,4 @@ Here are some ideas to get you started:
 ## ⚡ Quote I Believe In
 
 > "Build technology that actually makes a difference."
+
