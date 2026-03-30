@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Gaurav Batham</h1>
+<h1 align="center">Hi 👋, I'm Gourav Batham</h1>
 <h3 align="center">🚀 IoT Student | Developer | Problem Solver</h3>
 
 <p align="center">
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
   <a href="mailto:gourav.batham1907@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/gourav-batham-04929232a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
